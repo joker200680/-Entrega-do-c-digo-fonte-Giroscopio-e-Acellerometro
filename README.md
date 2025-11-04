@@ -1,1 +1,0 @@
-# -Entrega-do-c-digo-fonte-Giroscopio-e-Acellerometro
